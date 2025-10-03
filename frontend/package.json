@@ -6,8 +6,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "scripts": {
-    "start": "npx serve -s build",
-    "build": "npx create-react-app . && npm run build"
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+
   }
 }
